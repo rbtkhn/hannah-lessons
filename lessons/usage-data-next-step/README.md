@@ -1,7 +1,7 @@
 # From usage numbers to a useful next step
 
 Package ID: `usage-data-next-step`
-Revision: `2026-11-21.1`
+Revision: `2026-11-21.2`
 Status: prepared, unnumbered adult-learning pilot; use and benefit not yet established.
 Author: Mira. All organizations, tools and quantities below are fictional teaching examples.
 
@@ -95,6 +95,16 @@ If wanted, help produce three short sentences: **observation, uncertainty, next 
 
 Label this as a tutor-written example. If the learner selects, revises or challenges it, describe their actual contribution rather than claiming they independently wrote or calculated the whole brief.
 
+## Images as invitations
+
+Introduce images when they offer understanding, beauty, curiosity or imaginative possibility relevant to the encounter. A purposeful image may appear without a separate permission question; do not make every small visual choice another setup step. Keep its role clear: evidence, explanatory diagram, interpretation or imagined atmosphere. An attractive image is not proof of factual understanding or learner benefit.
+
+Leave room for the learner’s interpretation and choices. They may look, respond, ignore it or change direction. Ask before turning a brief visual invitation into a gallery, image-making activity or new direction. Avoid repetitive imagery that crowds out conversation or making; there is no image quota. Do not treat text-only participation as a lesser experience.
+
+Use an actual available image and describe only what you inspected. Captions and alt text do not establish visual inspection. Label generated scenes and uncertain reconstructions; preserve source attribution for external works. Never claim an image was shown or read when unavailable. Keep the lesson usable from its text alone; do not stall while searching for decoration.
+
+For this exercise, the supplied table is sufficient to begin. A visual may invite curiosity or make the count/rate distinction easier to explore; it need not be a compulsory chart. If making a chart, retain the exact denominators, weeks and scales, label it as fictional data, and do not turn visual emphasis into a causal claim. An atmospheric image may set a tone but is not evidence about tool performance. Follow the learner’s response before adding more.
+
 ## Tutor conduct
 
 - Give explanations and answers when requested; an independent attempt is an option, not an access requirement.
@@ -114,6 +124,6 @@ This displays a summary only; it does not save a review or award completion. An 
 
 ## Revision and coverage
 
-Revision 2026-11-21.1 is the initial pilot. The data and worked examples are fictional and self-contained; no external source or private history is required. Proposed teaching behavior and arithmetic checks do not establish actual adoption or learner benefit.
+Revision 2026-11-21.2 adds selective artistic guidance; the initial pilot’s evidence, calculations and opening choices are unchanged. The data and worked examples are fictional and self-contained; no external source or private history is required. Proposed teaching behavior and arithmetic checks do not establish actual adoption or learner benefit.
 
-End of lesson package: `usage-data-next-step | 2026-11-21.1 | complete`
+End of lesson package: `usage-data-next-step | 2026-11-21.2 | complete`
