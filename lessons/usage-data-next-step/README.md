@@ -1,9 +1,15 @@
 # From usage numbers to a useful next step
 
 Package ID: `usage-data-next-step`
-Revision: `2026-11-21.2`
+Revision: `2026-11-21.3`
 Status: prepared, unnumbered adult-learning pilot; use and benefit not yet established.
 Author: Mira. All organizations, tools and quantities below are fictional teaching examples.
+
+## Tutor-only launch contract — do not recite
+
+A folder URL supplied as an invitation to this lesson means begin, unless the user explicitly asks for an audit, summary or verification report. Read the complete package and check identity, revision and final marker silently. If retrieval succeeds, go straight to the learner opening; at most say “Ready—let’s begin.” Do not print metadata tables, coverage markers, answer keys, worked solutions or a lesson outline at launch. If retrieval fails, explain that briefly and request the complete file.
+
+Sections labeled tutor-only guide behavior; they are not learner-facing narration. Use learner-facing passages selectively, not as a document to read aloud in full. Do not assume the learner is participating merely because an adult or tester opened this link.
 
 ## Launch from this folder
 
@@ -11,7 +17,7 @@ When a user supplies this folder URL and asks to begin, retrieve this complete `
 
 https://raw.githubusercontent.com/rbtkhn/hannah-lessons/main/lessons/usage-data-next-step/README.md
 
-Identify the title, package ID, revision and final coverage marker from the text actually retrieved. Briefly confirm the lesson and begin the opening below. Do not ask the user to navigate files if you can retrieve them. Do not claim to read linked files automatically. The final marker is a completeness aid, not proof of comprehension or permission to invent unseen text.
+Check the title, package ID, revision and final coverage marker silently against the retrieved text, then begin the learner opening. Do not print a verification report unless explicitly requested. Do not ask the user to navigate files if you can retrieve them. Do not claim to read linked files automatically. The final marker is a completeness aid, not proof of comprehension or permission to invent unseen text.
 
 If the complete text cannot be retrieved, explain that limitation and ask for an attachment or paste of this same file. Do not invent the missing material. No separate profile or prior lesson is required. Do not assign this activity a numbered place in someone’s learning history.
 
@@ -21,28 +27,24 @@ Practise separating a supported observation, an unresolved explanation and a use
 
 Use Chinese for the initial purpose, materials and terminology explanations. Keep the original English terms visible where useful. Follow the learner’s preferred language if they choose another. Explain the task before asking for a judgment; do not require a new personal intake or repeat a completed activity.
 
-## Ready-to-use opening
+## Learner-facing opening — say this, not the setup instructions
 
-今天我们用一组虚构的工具使用数据，练习区分三件事：**数据说明了什么、还不能说明什么、下一步值得了解什么。**
+今天我们看一组虚构数据，练习把**观察、还不知道的原因、下一步**分清楚。先看这张小表：
 
-这不是考试，也不需要先完成计算。你可以自己试一小步，请我解释，或者直接看一个示范。
+| 工具 | 第1周：分配账号 / 活跃人数 | 第2周：分配账号 / 活跃人数 |
+| --- | ---: | ---: |
+| TaskBoard | 20 / 10 | 30 / 15 |
+| BriefDesk | 10 / 6 | 10 / 7 |
 
-**A — 先看材料，自己提出一个观察。**
+**分配账号**是这一周获得账号的人数；**活跃人数**是在这一周至少打开过一次工具的人数，每人只算一次。这些数字不代表工作效果。
 
-**B — 先解释材料和关键词，再由我判断。**
+你先注意到哪个变化？不需要计算；也可以直接说“先解释一下”或“给我一个示范”。
 
-**C — 看一个完整示范，然后讨论我是否同意。**
+### Tutor-only pacing after the opening
 
-也可以提出自己的问题、换个方向或停止。
+The table above is the supplied fictional evidence; show it once, not a second duplicate table. The opening contains the first observation question. Wait for a response rather than adding the later invitation immediately. If the learner already supplied an observation, respond to it directly. If they request explanation or an example, give it without a compulsory first attempt. Explain rates and percentage points only when useful, rather than presenting every term up front. Offer short A/B/C navigation at a later genuine crossroads; do not add another choice form before the learner sees the material.
 
-Tutor: if the learner already asked for an explanation, answer or attempt, follow that request directly instead of repeating the menu. Do not display worked guidance before an independent first attempt unless requested. Once a path is chosen, show the small evidence table and explain any needed terminology.
-
-## Supplied fictional evidence
-
-| Tool | Assigned accounts, week 1 | Weekly active users, week 1 | Assigned accounts, week 2 | Weekly active users, week 2 |
-| --- | ---: | ---: | ---: | ---: |
-| TaskBoard | 20 | 10 | 30 | 15 |
-| BriefDesk | 10 | 6 | 10 | 7 |
+## Tutor-only reference: definitions and evidence limits
 
 Definitions:
 
@@ -55,7 +57,7 @@ Additional evidence: an optional introduction session for TaskBoard took place b
 
 ## One meaningful invitation
 
-Ask one question at a time: “从这些材料里，你会先向同事说明哪一个变化？” / “What change would you explain to a colleague first?”
+The opening already asks this question. Do not repeat it after an answer; use it only if a later return needs orientation. Ask one question at a time: “从这些材料里，你会先向同事说明哪一个变化？” / “What change would you explain to a colleague first?”
 
 Let the learner make an observation without having to calculate. “TaskBoard has five more active users” is a supported observation. Do not dismiss it for omitting the rate; explain that counts and proportions answer different questions. If the learner wants the rates, calculate them clearly and attribute the calculation to the tutor.
 
@@ -124,6 +126,6 @@ This displays a summary only; it does not save a review or award completion. An 
 
 ## Revision and coverage
 
-Revision 2026-11-21.2 adds selective artistic guidance; the initial pilot’s evidence, calculations and opening choices are unchanged. The data and worked examples are fictional and self-contained; no external source or private history is required. Proposed teaching behavior and arithmetic checks do not establish actual adoption or learner benefit.
+Revision 2026-11-21.3 moves verification backstage and begins with the evidence table, two plain-language definitions and one invitation. Revision 2026-11-21.2 added selective artistic guidance. Evidence and calculations are unchanged. The data and worked examples are fictional and self-contained; no external source or private history is required. Proposed teaching behavior and arithmetic checks do not establish actual adoption or learner benefit.
 
-End of lesson package: `usage-data-next-step | 2026-11-21.2 | complete`
+End of lesson package: `usage-data-next-step | 2026-11-21.3 | complete`
